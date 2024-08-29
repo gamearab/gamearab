@@ -1,1 +1,1 @@
-print('hello')
+os.system('msg * "Hi"')
